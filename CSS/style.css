@@ -93,7 +93,6 @@ button:hover{
     padding: 0 5%;
     height: 100vh;
     display: flex;
-    /* flex-wrap: wrap; */
     justify-content: space-between;
     align-items: center;
     gap: 20px;
@@ -148,7 +147,12 @@ button:hover{
     color:aliceblue;
     font-weight: bold;
 }
-
+@media screen and (max-width:425px){
+    .container{
+        flex-wrap: wrap;
+        margin-top: 50px;
+    }
+} 
 @media screen and (max-width:403px) {
     .bars{
         display: block;
