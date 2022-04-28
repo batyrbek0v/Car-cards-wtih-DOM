@@ -152,6 +152,7 @@ button:hover{
         flex-wrap: wrap;
         margin-top: 50px;
     }
+    
 } 
 @media screen and (max-width:403px) {
     .bars{

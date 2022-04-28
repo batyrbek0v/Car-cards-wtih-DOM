@@ -97,7 +97,7 @@ $btn3.addEventListener('click' , e => {
     $container.innerHTML = `
         <div class="card">
             <div class="card_title">
-                <h3>BMW</h3>
+                <h3>TOYOTA</h3>
             </div>
             <div class="card_img">
                 <img src="https://hdpic.club/uploads/posts/2022-01/1642002299_19-hdpic-club-p-toiota-kamri-75-44.jpg">
@@ -108,7 +108,7 @@ $btn3.addEventListener('click' , e => {
         </div>
         <div class="card">
             <div class="card_title">
-                <h3>BMW</h3>
+                <h3>TOYOTA</h3>
             </div>
             <div class="card_img">
                 <img src="https://cdn.motor1.com/images/mgl/7JyPP/s1/4x3/2021-toyota-camry-xle.webp">
@@ -119,7 +119,7 @@ $btn3.addEventListener('click' , e => {
         </div>
         <div class="card">
             <div class="card_title">
-                <h3>BMW</h3>
+                <h3>TOYOTA</h3>
             </div>
             <div class="card_img">
                 <img src="https://focus.ua/static/storage/thumbs/1200x630/2/26/d65a2420-215b42edd49801a8e0dcbdc6f0d75262.jpg?v=3136_1">
