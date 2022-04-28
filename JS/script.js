@@ -38,7 +38,7 @@ $btn1.addEventListener('click' , e => {
                 <h3>Mercedes-Benz</h3>
             </div>
             <div class="card_img">
-                <img src="https://larte-design.ru/assets/cache_image/products/103/04_0x0_e53.png">
+                <img src="https://wroom.ru/i/news/7271img1.jpg">
             </div>
             <div class="card_footer">
                 <p>Gelаndewagen G-Class</p>
